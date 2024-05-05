@@ -1,4 +1,7 @@
 ### Hi there 👋
+-I am currently learning r📈 and python🐍 
+
+-I'm currently working on Seronegative Rheumatoid Arthritis ⚕️🦴
 
 <!--
 **jperera100/jperera100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
