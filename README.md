@@ -1,5 +1,5 @@
 ### Hi there 👋
--I am currently learning r📈 and python🐍 
+-I am currently learning R📈 and python🐍 
 
 -I'm currently working on Seronegative Rheumatoid Arthritis ⚕️🦴
 
